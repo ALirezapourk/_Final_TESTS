@@ -1,0 +1,77 @@
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# User-specific files for Visual Studio
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+[Dd]eploy/
+[Dd]ebug-*.*.dll
+[Dd]ebug-*.*.pdb
+[Dd]ebug-*.*.exe
+[Dd]ebug-*.*.ilk
+[Dd]ebug-*.*.exp
+[Dd]ebug-*.*.lib
+[Dd]ebug-*.*.obj
+[Dd]ebug-*.*.suo
+
+# Release results
+[Dd]eploy/
+[Dd]ebug-Release/
+[Dd]ebug-Releases/
+Release/
+Release-*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider specific files
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+logs/
+*.log
+
+# Tye related files
+.tye/
+
+# Docker Ignore
+Dockerfile
+.dockerignore
+
+# ASP.NET and IIS
+*.vspscc
+.vs/
+
+# Visual Studio for Mac specific files
+.vscode/
+.vscode/
+.vs/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET 5+ / .NET Core files
+bin/
+obj/
